@@ -1,5 +1,5 @@
 277eaba13d8482aff13567fa22670320 *ChangeLog
-dff5c3be2aa4a830d80effa56c4df087 *DESCRIPTION
+4ff8277e053312cde2fecdd47fda0849 *DESCRIPTION
 0f89a28f5537baa1bc4baedb8f967296 *NAMESPACE
 a7aa74b8c02e0f440266e31d51705100 *R/CompareGens.R
 e856ec0476f042c2026786fee6d6cce6 *R/DiscRep.R
@@ -14,7 +14,7 @@ de01d31c2a9e8ad426ab46bd8cfa9b01 *R/GGEPlot.R
 9890cba2474987c7a8db6f027afcfcc4 *R/WhichWon.R
 ebe0f3a3804ce91f2c4be0a2ee9896b5 *R/globals.R
 feacf3db898edc09db81674f1567e357 *R/stattable.R
-4fb1e74667ed8cd196a163eceb598528 *build/partial.rdb
+c552ac95941c2aa09250fe743f92db94 *build/partial.rdb
 4959df7c4924a6c456493aa4229850fa *data/Ontario.rda
 343f6c4c45976246429a85949d6eb1fb *man/CompareGens.Rd
 43f7b0c23565318d330521024731694b *man/DiscRep.Rd
